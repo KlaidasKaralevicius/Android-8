@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="850px"
+        android:layout_weight="1"
+        android:background="#E91E63" />
+    <Button
+        android:layout_width="600px"
+        android:layout_height="300px"
+        android:background="#00BCD4"
+        android:layout_marginTop="280px"
+        android:layout_marginLeft="420px"
+        android:textSize="24sp"
+        android:text="Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="850px"
+        android:layout_marginTop="850px"
+        android:layout_weight="1"
+        android:background="#8BC34A" />
+    <Button
+        android:layout_width="600px"
+        android:layout_height="300px"
+        android:background="#48CCDD"
+        android:layout_marginTop="1120px"
+        android:layout_marginLeft="420px"
+        android:textSize="24sp"
+        android:text="Button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="860px"
+        android:layout_marginTop="1700px"
+        android:layout_weight="1"
+        android:background="#00BCD4" />
+
+    <Button
+        android:layout_width="600px"
+        android:layout_height="300px"
+        android:background="#48CCDD"
+        android:layout_marginTop="1980px"
+        android:layout_marginLeft="420px"
+        android:textSize="24sp"
+        android:text="Button" />
+
+</RelativeLayout>
